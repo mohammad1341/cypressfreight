@@ -31,7 +31,7 @@ export default function ContactPage() {
                   href="tel:+16475402733"
                   className="text-emerald-700 hover:underline"
                 >
-                  +1 (647) 540-2733
+                  +1 (647) 772-2516
                 </a>
               </p>
 
